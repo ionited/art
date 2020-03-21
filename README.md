@@ -65,5 +65,5 @@ art.bold('Hey! I am a bold text!');
 You can join styles and make art in your terminal:
 
 ```javascript
-art.bgGreen.bold.yellow('A beatiful message!')
+art.bgGreen.bold.yellow('A beatiful message!');
 ```
