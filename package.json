@@ -1,0 +1,27 @@
+{
+  "name": "@ionited/art",
+  "version": "0.1.0",
+  "description": "Art in your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionited/art.git"
+  },
+  "keywords": [
+    "ANSI",
+    "Art",
+    "Colors",
+    "Cmd",
+    "Powershell",
+    "Terminal"
+  ],
+  "author": "Ion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionited/art/issues"
+  },
+  "homepage": "https://github.com/ionited/art#readme"
+}
