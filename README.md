@@ -67,3 +67,17 @@ You can join styles and make art in your terminal:
 ```javascript
 art.bgGreen.bold.yellow('A beatiful message!');
 ```
+
+### Animations
+
+Make loadings or other animations easily:
+
+```javascript
+art.animation(frames: any, infinite?: boolean, fps?: number): void
+```
+
+Example:
+
+```javascript
+art.animation(['#', '##', '###', '####', '#####']);
+```
