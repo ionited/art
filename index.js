@@ -1,4 +1,6 @@
-const styles = require('./styles');
+const
+    styles = require('./styles'),
+    animation = require('./animation');
 
 function Art(message, style) {
     let template = '';
@@ -29,5 +31,7 @@ Object.keys(styles).forEach(function(key) {
         }
     });
 });
+
+Art.animation = animation;
 
 module.exports = Art;
