@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ionited/art/issues"
   },
-  "homepage": "https://github.com/ionited/art#readme"
+  "homepage": "https://github.com/ionited/art#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
