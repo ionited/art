@@ -1,6 +1,6 @@
 {
   "name": "@ionited/art",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Art in your terminal",
   "main": "index.js",
   "scripts": {
